@@ -1,0 +1,58 @@
+.main{
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: black;
+    width: 405px;
+    height: 405px;
+    margin: 200px auto;
+}
+.result{
+    background-color: ivory;
+    width: 387px;
+    height: 90px;
+    padding-left: 20px;
+    font-size: 25px;
+    color: gray;
+    margin: 2px 3px;
+    border-top-left-radius: 7px ;
+    border-top-right-radius: 7px;
+    
+}
+.en{
+    width: 288px;
+    height:50px;
+    margin: 2px 3px;
+    
+
+}
+.but{
+    background-color: rgb(40, 175, 228);
+    width: 89px;
+    height: 50px;
+    margin: 5px 3px;
+
+}
+.helf{
+    margin-top:5px ;
+    background-color: rgb(40, 175, 228);
+    width: 48%;
+}
+
+.plus{
+    position: relative;
+    width: 89px;
+    height: 110px;
+    left: 300px;
+    top: -54px;
+}
+.btn1{
+    position: relative;
+    width: 89px;
+    height: 50px;
+    top: -109px;
+    
+    margin: 5px 3px;
+}
+.body{
+    background-color: darkgray;
+}
